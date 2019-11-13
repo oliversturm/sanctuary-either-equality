@@ -1,0 +1,16 @@
+{
+  "name": "sanctuary-either-equality",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lerna": "lerna"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "lerna": "^3.18.4"
+  }
+}

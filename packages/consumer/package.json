@@ -1,0 +1,19 @@
+{
+  "name": "consumer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sanctuary": "^2.0.1",
+    "source-of-either": "0.0.1"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
